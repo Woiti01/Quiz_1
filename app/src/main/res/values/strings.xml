@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prwada</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="correct_answer">Poprawna odpowiedź</string>
+    <string name="false_answer">Błędna odpowiedź</string>
+
+    <string name="q_one">Fortepian jest instrumentem strunowym.</string>
+    <string name="q_two">Dominantę septymową można rozwiązać na tonikę szóstego stopnia.</string>
+    <string name="q_three">Fortepian ma 144 klawiszy.</string>
+    <string name="q_four">Gitara jest instrumentem perkusyjnym.</string>
+    <string name="q_five">Fryderyk Chopin pochodzi z Francji.</string>
+
+</resources>
